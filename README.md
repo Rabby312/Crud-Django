@@ -1,14 +1,14 @@
-Django-python CRUD Operation with sqlite DB
+#Django-python CRUD Operation with sqlite DB
 Webpage which performs basic CRUD Operation using Python Django Framework. Here, student can insert his/her information such as name,email,address,mobile,gender etc. After submited form student can easily view or update or delete his/her information.
 
-Configaration:
-py --version
-py -m pip install Django
-py -m django --version
-django-admin startproject crud
-py manage.py migrate
-py manage.py syncdb
-py manage.py runserver
+##Configaration:
+###py --version
+###py -m pip install Django
+###py -m django --version
+###django-admin startproject crud
+###py manage.py migrate
+###py manage.py syncdb
+###py manage.py runserver
 
 
 Django is a free and open-source web framework, written in Python, which follows the model-view-template (MVT) architectural pattern.
